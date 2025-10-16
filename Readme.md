@@ -312,3 +312,4 @@ window.addEventListener('pagehide', ()=>{ stopApp(); });
 </script>
 </body>
 </html>
+new feature added
